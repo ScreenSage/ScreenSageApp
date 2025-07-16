@@ -55,7 +55,7 @@ ScreenSage Pro 是一款专业的 macOS 屏幕录制和视频编辑工具,专注
 - 视频编辑引擎优化
 
 ## 版本信息
-当前版本: 1.0.0 Ashram
+当前版本: 0.2.0 Baige
 
 ## 开发者
 Developed by Nanjing Zuimeijia.
